@@ -2,10 +2,9 @@
 ----
 
 ### Escopo do projeto:
-- Pré-processar os dados
-- Fazer um EDA do dataset
-- Realizar a feature extraction
-- Predizer futuras reviews
+- Realizar um EDA extenso das reviews, de forma a comparar detalhes entre as positivas e ngativas
+- Pré-processar e realizar a feature extraction do texto com técnicas de Processamento de Linguagem Natural
+- Aplicar um modelo para prever futuras reviews
 
 
 ### Objetivo: 
